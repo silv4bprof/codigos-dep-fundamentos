@@ -4,7 +4,6 @@ while True:
         print("Encerrando o programa.")
         break
 
-    # Inicializa a variável para verificar a primalidade
     primo = True
 
     # Verifica se o número é menor ou igual a 1
@@ -21,7 +20,6 @@ while True:
             divisor += 1
             print(f"Divisor: {divisor}")
 
-    # Exibe o resultado
     if primo:
         print(f"{numero} é um número primo.")
     else:

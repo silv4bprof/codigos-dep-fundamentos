@@ -1,7 +1,5 @@
-# Solicita um número inteiro positivo ao usuário
 numero = int(input("Digite um número inteiro positivo: "))
 
-# Inicializa o multiplicador
 multiplicador = 0
 
 # Laço while para exibir a tabuada

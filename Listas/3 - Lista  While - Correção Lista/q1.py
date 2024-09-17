@@ -13,7 +13,6 @@ while numero >= 0:
         input("Digite um número inteiro positivo (ou um número negativo para parar): ")
     )
 
-# Calcula e exibe a média, se houver números válidos
 if contador > 0:
     media = soma / contador
     print(f"A média dos números positivos inseridos é: {media}")
